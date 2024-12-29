@@ -1,0 +1,12 @@
+#ifndef PNG
+#define PNG
+
+#include "../common.h"
+#include "../xfs.h"
+
+const unsigned char PNG_HEAD[] = {0x89, 0x50, 0x4E, 0x47, 0x0D, 0x0A, 0x1A, 0x0A};
+const unsigned char PNG_FOOTER[] = {0x49, 0x45, 0x4E, 0x44, 0xAE, 0x42, 0x60, 0x82};
+
+void make_png(uint64_t start, uint64_t end, std::ifstream &fs);
+
+#endif // !PNG

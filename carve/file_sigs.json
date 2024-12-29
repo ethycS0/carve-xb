@@ -1,0 +1,39 @@
+{
+  "name": "File Signature Database",
+  "program version": "1.0.0",
+  "file signature date": "2024/01/10",
+  "filesigs": [
+    {
+      "File description": "PowerPoint Presentation",
+      "Header (hex)": "D0 CF 11 E0 A1 B1 1A E1",
+      "File extension": "ppt",
+      "FileClass": "Document",
+      "Header offset": "0",
+      "Trailer (hex)": "(null)"
+    },
+    {
+      "File description": "ISO Image",
+      "Header (hex)": "43 44 30 30 31",
+      "File extension": "iso",
+      "FileClass": "Archive",
+      "Header offset": "0x8001",
+      "Trailer (hex)": "(null)"
+    },
+    {
+      "File description": "JPEG Image",
+      "Header (hex)": "FF D8 FF",
+      "File extension": "jpg",     
+      "FileClass": "Image",
+      "Header offset": "0",
+      "Trailer (hex)": "FF D9"
+    },
+    {
+      "File description": "PNG Image",
+      "Header (hex)": "89 50 4E 47 0D 0A 1A 0A",
+      "File extension": "png",
+      "FileClass": "Image",
+      "Header offset": "0",
+      "Trailer (hex)": "49 45 4E 44 AE 42 60 82"
+    }
+  ]
+}

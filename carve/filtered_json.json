@@ -1,0 +1,175 @@
+{
+  "name": "LordOfWizard's Signature Table",
+  "program version": "0.0.0",
+  "file signature date": "08/12/2024",
+  "filesigs": [
+    {
+      "File description": "MS Office Open XML Format Document",
+      "Header (hex)": "50 4B 03 04",
+      "File extension": "DOCX|PPTX|XLSX",
+      "FileClass": "Word processing suite",
+      "Header offset": "0",
+      "Trailer (hex)": "(null)"
+    },
+    {
+      "File description": "Rich Text Format",
+      "Header (hex)": "7B 5C 72 74 66 31",
+      "File extension": "RTF",
+      "FileClass": "Word processing suite",
+      "Header offset": "0",
+      "Trailer (hex)": "5C 70 61 72 20 7D 7D"
+    },
+    {
+      "File description": "PDF file",
+      "Header (hex)": "25 50 44 46",
+      "File extension": "PDF|FDF",
+      "FileClass": "Word processing suite",
+      "Header offset": "0",
+      "Trailer (hex)": "25 25 45 4F 46"
+    },
+    {
+      "File description": "OpenDocument template",
+      "Header (hex)": "50 4B 03 04",
+      "File extension": "ODT|ODP|OTT",
+      "FileClass": "Word processing suite",
+      "Header offset": "0",
+      "Trailer (hex)": "(null)"
+    },
+    {
+      "File description": "User Interface Language",
+      "Header (hex)": "3C 3F 78 6D 6C 20 76 65 72 73 69 6F 6E 3D 22 31 2E 30 22 3F 3E",
+      "File extension": "XML",
+      "FileClass": "Miscellaneous",
+      "Header offset": "0",
+      "Trailer (hex)": "(null)"
+    },
+    {
+      "File description": "PowerPoint presentation subheader_3",
+      "Header (hex)": "A0 46 1D F0",
+      "File extension": "PPT",
+      "FileClass": "Presentation",
+      "Header offset": "512",
+      "Trailer (hex)": "(null)"
+    },
+    {
+      "File description": "GZIP archive file",
+      "Header (hex)": "1F 8B 08",
+      "File extension": "GZ",
+      "FileClass": "Compressed archive",
+      "Header offset": "0",
+      "Trailer (hex)": "(null)"
+    },
+    {
+      "File description": "ZLock Pro encrypted ZIP",
+      "Header (hex)": "50 4B 03 04 14 00 01 00",
+      "File extension": "ZIP",
+      "FileClass": "Compressed archive",
+      "Header offset": "0",
+      "Trailer (hex)": "(null)"
+    },
+    {
+      "File description": "WinRAR compressed archive",
+      "Header (hex)": "52 61 72 21 1A 07 00",
+      "File extension": "RAR",
+      "FileClass": "Compressed archive",
+      "Header offset": "0",
+      "Trailer (hex)": "(null)"
+    },
+    {
+      "File description": "Tape Archive",
+      "Header (hex)": "75 73 74 61 72",
+      "File extension": "TAR",
+      "FileClass": "Compressed archive",
+      "Header offset": "257",
+      "Trailer (hex)": "(null)"
+    },
+    {
+      "File description": "ISO-9660 CD Disc Image",
+      "Header (hex)": "43 44 30 30 31",
+      "File extension": "ISO",
+      "FileClass": "Compressed archive",
+      "Header offset": "0",
+      "Trailer (hex)": "(null)"
+    },
+    {
+      "File description": "RedHat Package Manager",
+      "Header (hex)": "ED AB EE DB",
+      "File extension": "RPM",
+      "FileClass": "Compressed archive",
+      "Header offset": "0",
+      "Trailer (hex)": "(null)"
+    },
+    {
+      "File description": "Generic JPEG Image file",
+      "Header (hex)": "FF D8",
+      "File extension": "JPE|JPEG|JPG",
+      "FileClass": "Picture",
+      "Header offset": "0",
+      "Trailer (hex)": "FF D9"
+    },
+    {
+      "File description": "JPEG-EXIF-SPIFF images",
+      "Header (hex)": "FF D8 FF",
+      "File extension": "JFIF|JPE|JPEG|JPG",
+      "FileClass": "Picture",
+      "Header offset": "0",
+      "Trailer (hex)": "FF D9"
+    },
+    {
+      "File description": "Monochrome Picture TIFF bitmap",
+      "Header (hex)": "0C ED",
+      "File extension": "MP",
+      "FileClass": "Picture",
+      "Header offset": "0",
+      "Trailer (hex)": "(null)"
+    },
+    {
+      "File description": "TIFF file_1",
+      "Header (hex)": "49 20 49",
+      "File extension": "TIF|TIFF",
+      "FileClass": "Picture",
+      "Header offset": "0",
+      "Trailer (hex)": "(null)"
+    },
+    {
+      "File description": "GIF file",
+      "Header (hex)": "47 49 46 38",
+      "File extension": "GIF",
+      "FileClass": "Picture",
+      "Header offset": "0",
+      "Trailer (hex)": "00 3B"
+    },
+    {
+      "File description": "ELF executable",
+      "Header (hex)": "7F 45 4C 46",
+      "File extension": "(none)",
+      "FileClass": "Linux-Unix",
+      "Header offset": "0",
+      "Trailer (hex)": "(null)"
+    },
+    {
+      "File description": "Windows-DOS executable file",
+      "Header (hex)": "4D 5A",
+      "File extension": "COM|DLL|DRV|EXE|PIF|QTS|QTX|SYS",
+      "FileClass": "Windows",
+      "Header offset": "0",
+      "Trailer (hex)": "(null)"
+    },
+    {
+      "File description": "Visual Studio Solution User Options file",
+      "Header (hex)": "D0 CF 11 E0 A1 B1 1A E1",
+      "File extension": "SOU",
+      "FileClass": "Programming",
+      "Header offset": "0",
+      "Trailer (hex)": "(null)"
+    },
+    {
+      "File description": "PostScript file",
+      "Header (hex)": "25 21 50 53 2D 41 64 6F 62 65 2D",
+      "File extension": "PS",
+      "FileClass": "Word processing suite",
+      "Header offset": "0",
+      "Trailer (hex)": "(null)"
+    }
+  ]
+}

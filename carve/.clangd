@@ -1,0 +1,4 @@
+CompileFlags:
+  CompilationDatabase: .
+  Add:
+    - "-I/opt/cuda/include"
